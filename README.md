@@ -44,7 +44,7 @@ export TELEGRAM_BOT_TOKEN="your_bot_token_here"
 export TELEGRAM_CHAT_ID="your_group_chat_id_here"
 
 # Supabase настройки  
-export SUPABASE_URL="https://jzuriugeyulesocwhfjg.supabase.co"
+export SUPABASE_URL="https://*.supabase.co"
 export SUPABASE_SERVICE_ROLE_KEY="your_service_role_key_here"
 ```
 
